@@ -8,4 +8,4 @@ Silakan gunakan format berikut:<br>
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Syadad Nabil, [Syadad Nabil M. Toha].
-* Moehammad Agung, (https://www.linkedin.com/in/moehammad-agung-a2466022a/).
+* Moehammad Agung, [LinkedIn](https://www.linkedin.com/in/moehammad-agung-a2466022a/).
